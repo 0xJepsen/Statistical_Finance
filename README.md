@@ -2,15 +2,9 @@
 
 Standard deviation is simply the square root of the variance. It has the same unit as the original dataset.
 
-\sigma = \sqrt{\frac{\Sigma(X_{i} - \bar{X})^{2}}{n}}σ= 
-n
-Σ(X 
-i
-​	 − 
-X
-ˉ
- ) 
-2
+$$
+\sigma = \sqrt{\frac{\Sigma(X_{i} - \bar{X})^{2}}{n}}
+$$
  
 ​	 
 ​	
