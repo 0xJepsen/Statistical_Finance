@@ -4,7 +4,4 @@ Standard deviation is simply the square root of the variance. It has the same un
 
 $$
 \sigma = \sqrt{\frac{\Sigma(X_{i} - \bar{X})^{2}}{n}}
-$$
- 
-​	 
-​	
+$$	
